@@ -99,7 +99,9 @@ unclass(brands_fac)
 colours[unclass(brands_fac)]
 
 x=factor(c("lemonade","lemonade","juice","lemonade","water"))
-unclass(x)la
+unclass(x)
+
+
 
 levels(x)
 
